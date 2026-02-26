@@ -1,3 +1,3 @@
 # My Portfolio
-## My portfolio report: still learning this
+## My portfolio report
 <a href="https://thedatascientisteconomist.github.io/Ansumana"> Portfolio Exercise </a>
